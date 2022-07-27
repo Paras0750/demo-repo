@@ -22,3 +22,6 @@ git diff (Show what is updated in branch)
 
 Something-SOMETHING-something
 
+## CHANGES
+
+These changes are made in new branch.
