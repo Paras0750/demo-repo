@@ -29,3 +29,5 @@ git diff (Show what is updated in branch) <br />
 
 These changes are made in new branch.
 
+git pull (update local environment with github)
+git branch -D NameOfBranch (delete branch) (Branch are not used after merging)
