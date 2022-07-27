@@ -6,7 +6,7 @@ This is a demo for github!
 
 This is just another text.
 
-commands: 
+commands:  <br />
 1- git clone https://github.com/Paras0750/demo-repo.git <br />
 2- ls -la <br />
 3- git status <br />
@@ -17,7 +17,7 @@ commands:
 
 Write code -> Store Changes(git add) -> Commit Changes(git commit) -> push changes(git push) -> Make a pull request
 
-Branch:
-
-git branch - all branches & current branch \n
-git checkout -b NameOfBranch  (checkout is used to switch between branches, -b to create new branch) \n
+Branch: <br />
+<br />
+git branch - all branches & current branch <br />
+git checkout -b NameOfBranch  (checkout is used to switch between branches, -b to create new branch) <br />
