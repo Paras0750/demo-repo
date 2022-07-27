@@ -6,21 +6,24 @@ This is a demo for github!
 
 This is just another text.
 
-commands: 
-1- git clone https://github.com/Paras0750/demo-repo.git
-2- ls -la
-3- git status
-4- git commit -m "message(Added index.html) -m "Some Description" 
-5- git push
+commands:  <br />
+1- git clone https://github.com/Paras0750/demo-repo.git <br />
+2- ls -la <br />
+3- git status <br />
+4- git add . <br />
+5- git commit -m "message(Added index.html) -m "Some Description" <br />
+6- git push <br />
 
-## These Changes Are Made in New Branch !
 
-git checkout -b BranchName (to create a new branch)
-git checkout main or BranchName (to switch between branches)
-git merge (merging branch to main branch)
-git diff (Show what is updated in branch)
+Write code -> Store Changes(git add) -> Commit Changes(git commit) -> push changes(git push) -> Make a pull request
 
-Something-SOMETHING-something
+Branch: <br />
+<br />
+git branch - all branches & current branch <br />
+git checkout -b NameOfBranch  (checkout is used to switch between branches, -b to create new branch) <br />
+git checkout main or NameOfBranch (to switch between branches) <br />
+git merge (merging branch to main branch) <br />
+git diff (Show what is updated in branch) <br />
 
 ## CHANGES
 
