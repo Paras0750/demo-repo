@@ -15,4 +15,10 @@ commands:
 
 ## These Changes Are Made in New Branch !
 
-Something-SOMETHING-somthing
+git checkout -b BranchName (to create a new branch)
+git checkout main or BranchName (to switch between branches)
+git merge (merging branch to main branch)
+git diff (Show what is updated in branch)
+
+Something-SOMETHING-something
+
