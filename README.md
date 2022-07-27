@@ -21,3 +21,6 @@ Branch: <br />
 <br />
 git branch - all branches & current branch <br />
 git checkout -b NameOfBranch  (checkout is used to switch between branches, -b to create new branch) <br />
+git checkout main or NameOfBranch (to switch between branches) <br />
+git merge (merging branch to main branch) <br />
+git diff (Show what is updated in branch) <br />
